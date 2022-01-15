@@ -31,3 +31,6 @@ E' importante che le scan vengano organizzate secondo una semplice struttura ad 
             ...
       Manga YYY:
           ...
+
+# Utilizzo
+Per utilizzare il progetto è sufficiente scaricare i file e inserirli nella directory che contiene i manga spostare essa nel nostro server web e sarete pronti a godervi la vostra lettura.
