@@ -18,16 +18,16 @@ Fondamentalmente l'unico requisito è avere un dispositivo su cui poter abilitar
 
 ## Organizzazione Scan
 E' importante che le scan vengano organizzate secondo una semplice struttura ad albero.
-    Manga XXX:
-    -Volume X:
-      -Capitolo A:
-        -Scan1
-        ...
-        -Scan N
-      -Capitolo B:
-        -Scan1
-        ...
-        -Scan N
-    -Volume Y
-    ...
-  -Manga YYY
+
+      Manga XXX:
+          volumeX:
+            -CapitoloA:
+              -PrimaImmagine.jpg
+              -Secondaimmagina.jpg
+                ...
+            -CapitoloB:
+              ...
+          volumeY:
+            ...
+      Manga YYY:
+          ...
